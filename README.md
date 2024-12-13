@@ -2,7 +2,8 @@
                                          
 # ESSL configuration and User adding procedure - Zilogic Systems
 ![screenshot](/img1.png)
-### Step 1: User Addition ${\color{red}Red}$$
+### Step 1: User 
+#### $\textsf{\color{#326a95}{Section A.}}$  
         * Login with the IP address 49.207.180.207/iclock/
         * Go to the Masters option, then select the Employees option
 
